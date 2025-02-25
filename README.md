@@ -6,6 +6,12 @@ Testei todas as operações no Postman, que retorna perfeitamente o que foi cons
 
 1. Dar git clone no projeto:
 
-2. ```console
-   git clone
-3. ```
+```console
+   git clone https://github.com/nogsposito/workshop-springboot3-jpa.git
+```
+
+2. Rodar no debug com todas extensões instaladas
+   
+3. Acessar o servidor retornado depois de carregar o SpringBoot: http://localhost:8080/
+   
+4. Testar requisições nos links do Postman, ex: http://localhost:8080/users (GET)
