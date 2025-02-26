@@ -7,7 +7,7 @@ Testei todas as operações no Postman, que retorna perfeitamente o que foi cons
 1. Dar git clone no projeto:
 
 ```console
-   git clone https://github.com/nogsposito/workshop-springboot3-jpa.git
+   git clone https://github.com/nogsposito/springboot3-jpa.git
 ```
 
 2. Rodar no debug com todas extensões instaladas
